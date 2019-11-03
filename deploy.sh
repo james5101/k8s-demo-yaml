@@ -1,1 +1,1 @@
-kubectl apply -f ./deployment.yaml -f ./namespaces.yaml -f ./daemonset.yaml
+kubectl apply -f ./k8s_yamls/deployment.yaml -f ./k8s_yamls/namespaces.yaml -f ./k8s_yamls/daemonset.yaml
