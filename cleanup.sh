@@ -1,0 +1,1 @@
+kubectl delete -f ./deployment.yaml -f ./namespaces.yaml -f ./daemonset.yaml
