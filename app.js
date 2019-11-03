@@ -13,6 +13,7 @@ app.get('/api/v1/health', (req, res) => {
         message:"Service is Alive"
     })
 });
+
 const PORT=5000;
 
 app.listen(PORT, () => {
